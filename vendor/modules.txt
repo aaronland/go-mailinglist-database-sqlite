@@ -1,0 +1,6 @@
+# github.com/aaronland/go-mailinglist v0.0.1
+github.com/aaronland/go-mailinglist/database
+github.com/aaronland/go-mailinglist/confirmation
+github.com/aaronland/go-mailinglist/subscription
+# github.com/aaronland/go-string v0.1.0
+github.com/aaronland/go-string/random
